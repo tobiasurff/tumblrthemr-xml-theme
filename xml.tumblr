@@ -18,7 +18,7 @@ Made by Icelab and Jim Whimpey
   <URLEncodedTitle>{URLEncodedTitle}</URLEncodedTitle>
 
   <!-- Name -->
-  <Name>{Title}</Name>
+  <Name>{Name}</Name>
   <PlaintextName>{PlaintextName}</PlaintextName>
   <JSName>{JSName}</JSName>
   <JSPlaintextName>{JSPlaintextName}</JSPlaintextName>
